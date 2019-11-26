@@ -4,7 +4,7 @@
 My study of DDOS(drdos especially),including some attack scripts,discover scripts and others will be recorded in this repository. I'll update continually. Some of the scripts I've already finished, I'll rewrite them and publish later. Suggestions are welcome
 
 # 使用
- 目前暂无
+目前更新转至chriskalix.github.io
 
 # 声明
 该仓库中出现的脚本仅用于学习交流，请勿用于其他用途。
